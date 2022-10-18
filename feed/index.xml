@@ -792,4 +792,4 @@ Sinpasa Commercial Blok C , 15 Summarecon, Marga Mulya, Bekasi Utara, Jawa Barat
 	</channel>
 </rss>
 
-<!-- plugin=object-cache-pro client=phpredis metric#hits=5228 metric#misses=60 metric#hit-ratio=98.9 metric#bytes=377435 metric#prefetches=0 metric#store-reads=91 metric#store-writes=3 metric#store-hits=85 metric#store-misses=57 metric#sql-queries=19 metric#ms-total=545.02 metric#ms-cache=8.62 metric#ms-cache-median=0.05 metric#ms-cache-ratio=1.6 -->
+<!-- plugin=object-cache-pro client=phpredis metric#hits=5229 metric#misses=60 metric#hit-ratio=98.9 metric#bytes=381798 metric#prefetches=0 metric#store-reads=92 metric#store-writes=3 metric#store-hits=86 metric#store-misses=57 metric#sql-queries=19 metric#ms-total=502.32 metric#ms-cache=7.83 metric#ms-cache-median=0.05 metric#ms-cache-ratio=1.6 -->
