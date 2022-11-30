@@ -10,14 +10,12 @@
 	Comments for Pengiriman Road Barrier	</title>
 	<atom:link href="/comments/feed" rel="self" type="application/rss+xml" />
 	<link>/</link>
-	<description>Pengiriman Road Barrier Terjangkau</description>
-	<lastBuildDate>Mon, 17 Oct 2022 10:20:39 +0000</lastBuildDate>
+	<description>Harga Pengiriman Road Barrier Terjangkau</description>
+	<lastBuildDate>Wed, 30 Nov 2022 12:55:53 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.0.2</generator>
+	<generator>https://wordpress.org/?v=6.1</generator>
 </channel>
 </rss>
-
-<!-- plugin=object-cache-pro client=phpredis metric#hits=1305 metric#misses=10 metric#hit-ratio=99.2 metric#bytes=304457 metric#prefetches=0 metric#store-reads=26 metric#store-writes=2 metric#store-hits=19 metric#store-misses=7 metric#sql-queries=8 metric#ms-total=425.14 metric#ms-cache=3.84 metric#ms-cache-median=0.10 metric#ms-cache-ratio=0.9 -->
